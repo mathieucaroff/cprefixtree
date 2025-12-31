@@ -9,3 +9,5 @@ To compile the project, use the makefile instruction:
 
 Then, to run the tests, use
     bin/test
+
+![Project presentation](./doc/project-presentation.png)
